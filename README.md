@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DawidZda
-- 👀 I’m interested in Data science 
+- 👀 I’m interested in DS/ML 
 - 🌱 I’m currently learning Python FastAPI
 - 💞️ I’m looking to collaborate on Machine Learning Projects
 - 📫 How to reach me: via LinkedIn https://www.linkedin.com/in/dawid-zdanowicz-93b065244/
